@@ -4,8 +4,6 @@ Plataforma web para revisão de artigos em eventos acadêmicos, desenvolvida com
 
 O organizador cria um evento e escolhe os revisores. Os autores submetem seus artigos e cada revisor envia o arquivo revisado com seus comentários, tudo num só lugar.
 
-**Deploy (front-end):** https://tcc-opr-wb.vercel.app
-
 ## Funcionalidades
 
 - Cadastro e login com JWT
